@@ -1,7 +1,7 @@
 baseURL = "https://tao-j13.github.io/"
 title = "Yuanmu"
 
-theme = "puppet":
+theme = "puppet"
 
 copyright = ""
 paginate = 3
